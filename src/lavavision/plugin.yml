@@ -1,0 +1,12 @@
+name: LavaVision
+
+author: ML
+website:
+
+main: lavavision.LavaVision
+
+commands:
+    lavavision:
+        description: Explode your target into a ball of flaming lava
+
+version: 0.1

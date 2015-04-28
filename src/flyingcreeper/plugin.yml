@@ -1,0 +1,12 @@
+name: FlyingCreeper
+
+author: ML
+website:
+main: flyingcreeper.FlyingCreeper
+
+commands:
+    flyingcreeper:
+        description: Terror above your head :D
+        usage: /flyingcreeper
+
+version: 0.1

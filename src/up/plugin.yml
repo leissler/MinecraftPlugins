@@ -1,0 +1,12 @@
+name: Up
+
+author: ML
+website:
+
+main: up.Up
+
+commands:
+    up:
+        description: Let nearby players fly up
+
+version: 0.1
